@@ -11,9 +11,6 @@ __pycache__/
 # Local environment files (e.g., .env)
 .env
 
-# Dependency files
-requirements.txt
-
 # Editor/IDE specific files
 .vscode/
 .idea/
